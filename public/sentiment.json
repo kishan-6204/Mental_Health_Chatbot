@@ -1,0 +1,179 @@
+{
+    "responses": [
+        {
+            "keywords": ["happy", "joyful", "elated"],
+            "emoji": "😊",
+            "response": "I'm so glad you're feeling happy! Keep smiling and spread the joy!"
+        },
+        {
+            "keywords": ["excited", "enthusiastic", "thrilled"],
+            "emoji": "🤩",
+            "response": "Excitement is contagious! What's making you feel so pumped?"
+        },
+        {
+            "keywords": ["grateful", "thankful", "appreciative"],
+            "emoji": "🙏",
+            "response": "That's amazing! Gratitude brings more good things into your life."
+        },
+        {
+            "keywords": ["loved", "cherished", "valued"],
+            "emoji": "❤️",
+            "response": "Feeling loved is wonderful. Always treasure the people who make you feel that way."
+        },
+        {
+            "keywords": ["sad", "down", "unhappy"],
+            "emoji": "😢",
+            "response": "I'm sorry you're feeling sad. It's okay to have down days, but remember, things can get better."
+        },
+        {
+            "keywords": ["lonely", "isolated", "alone"],
+            "emoji": "🥺",
+            "response": "Feeling lonely can be tough. But remember, you're never truly alone. I'm here with you!"
+        },
+        {
+            "keywords": ["angry", "mad", "furious"],
+            "emoji": "😡",
+            "response": "Anger can be overwhelming. Take a deep breath. Let's talk about what's bothering you."
+        },
+        {
+            "keywords": ["frustrated", "annoyed", "irritated"],
+            "emoji": "😤",
+            "response": "Frustration can be tough to handle. Sometimes, it's good to take a break and reset."
+        },
+        {
+            "keywords": ["anxious", "nervous", "worried"],
+            "emoji": "😰",
+            "response": "Anxiety can be draining. Try focusing on your breathing or grounding exercises to calm your mind."
+        },
+        {
+            "keywords": ["scared", "fearful", "terrified"],
+            "emoji": "😨",
+            "response": "It's okay to be scared. Let's take it one step at a time, and you'll feel better."
+        },
+        {
+            "keywords": ["tired", "exhausted", "weary"],
+            "emoji": "😴",
+            "response": "Feeling tired? Make sure to rest and recharge. Your body needs time to recover."
+        },
+        {
+            "keywords": ["overwhelmed", "stressed", "overloaded"],
+            "emoji": "😩",
+            "response": "Feeling overwhelmed can be intense. Try to focus on one thing at a time and give yourself breaks."
+        },
+        {
+            "keywords": ["confused", "perplexed", "bewildered"],
+            "emoji": "😕",
+            "response": "It's okay to feel confused. Let’s break it down step by step, and you'll find clarity."
+        },
+        {
+            "keywords": ["bored", "uninterested", "disinterested"],
+            "emoji": "😐",
+            "response": "Boredom can feel dull. Maybe try a new hobby or activity to shake things up?"
+        },
+        {
+            "keywords": ["disappointed", "let down", "dismayed"],
+            "emoji": "😞",
+            "response": "Disappointment can sting. It's important to remember that every setback is a setup for a comeback."
+        },
+        {
+            "keywords": ["jealous", "envious", "covetous"],
+            "emoji": "😒",
+            "response": "Jealousy can be tricky. Try focusing on what you have, rather than what you feel you're missing."
+        },
+        {
+            "keywords": ["guilty", "remorseful", "ashamed"],
+            "emoji": "😔",
+            "response": "Guilt can weigh heavily on your heart. Sometimes, forgiving yourself is the first step."
+        },
+        {
+            "keywords": ["regretful", "repentant", "sorry"],
+            "emoji": "😟",
+            "response": "Regret is a tough feeling. Reflecting on it can help, but don't let it stop you from moving forward."
+        },
+        {
+            "keywords": ["hopeful", "optimistic", "positive"],
+            "emoji": "🌟",
+            "response": "Hope is a powerful thing. Keep believing, and brighter days are ahead!"
+        },
+        {
+            "keywords": ["relaxed", "calm", "at ease"],
+            "emoji": "😌",
+            "response": "It's great that you're feeling relaxed. Enjoy the peace and take it easy."
+        },
+        {
+            "keywords": ["proud", "accomplished", "satisfied"],
+            "emoji": "🎉",
+            "response": "You have every right to feel proud! Celebrate your achievements, big or small."
+        },
+        {
+            "keywords": ["curious", "inquisitive", "wondering"],
+            "emoji": "🤔",
+            "response": "Curiosity is the beginning of discovery. Ask questions, and you'll learn something new!"
+        },
+        {
+            "keywords": ["shy", "timid", "bashful"],
+            "emoji": "😳",
+            "response": "Being shy is okay. Take things at your own pace, and you'll open up when you're ready."
+        },
+        {
+            "keywords": ["embarrassed", "self-conscious", "ashamed"],
+            "emoji": "😳",
+            "response": "Embarrassment happens to all of us. You'll laugh about this later!"
+        },
+        {
+            "keywords": ["surprised", "astonished", "shocked"],
+            "emoji": "😮",
+            "response": "Surprises can be fun or shocking. What surprised you today?"
+        },
+        {
+            "keywords": ["disgusted", "repulsed", "nauseated"],
+            "emoji": "🤢",
+            "response": "Disgust can be a strong reaction. Take a moment to process, and you'll feel better."
+        },
+        {
+            "keywords": ["content", "satisfied", "fulfilled"],
+            "emoji": "😌",
+            "response": "Feeling content is a wonderful feeling. Enjoy the balance and peace."
+        },
+        {
+            "keywords": ["motivated", "driven", "inspired"],
+            "emoji": "💪",
+            "response": "It's awesome that you're feeling motivated! Channel that energy into something productive!"
+        },
+        {
+            "keywords": ["inspired", "encouraged", "uplifted"],
+            "emoji": "🌈",
+            "response": "Inspiration fuels creativity. Keep that spark alive and make something amazing."
+        },
+        {
+            "keywords": ["peaceful", "calm", "serene"],
+            "emoji": "🕊️",
+            "response": "It's beautiful that you're feeling peaceful. Savor the calm moments."
+        },
+        {
+            "keywords": ["fearful", "scared", "afraid"],
+            "emoji": "😨",
+            "response": "Fear is natural. Facing it one step at a time can help you overcome it."
+        },
+        {
+            "keywords": ["worried", "concerned", "anxious"],
+            "emoji": "😟",
+            "response": "Worrying can be exhausting. Focus on what you can control and let the rest go."
+        },
+        {
+            "keywords": ["ashamed", "guilty", "embarrassed"],
+            "emoji": "😳",
+            "response": "Shame is a hard feeling to carry. Remember, everyone makes mistakes, and it's okay to forgive yourself."
+        },
+        {
+            "keywords": ["confident", "self-assured", "bold"],
+            "emoji": "😎",
+            "response": "Confidence looks good on you! Keep believing in yourself!"
+        },
+        {
+            "keywords": ["optimistic", "hopeful", "positive"],
+            "emoji": "🌞",
+            "response": "Optimism is a powerful tool! Keep expecting good things to come your way."
+        }
+    ]
+}
